@@ -1,5 +1,5 @@
 # TravelPlanner
-# TrailCraft — travel planning app
+# TrailCraft — travel planning website
 
 A prototype travel planning website that lets a traveler build a day-by-day itinerary and track a trip budget in one place, styled around a travel-journal / boarding-pass look instead of a generic dashboard.
 
