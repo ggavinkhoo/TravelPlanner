@@ -97,10 +97,12 @@ Wayline addresses this by combining itinerary planning and budget tracking into 
 
 ## Team
 
-| Name | Role | Contribution |
-|---|---|---|
-| [Add name] | [Add role] | [Add contribution] |
-| [Add name] | [Add role] | [Add contribution] |
+| Name    | Role | Contribution |
+-------------------------------------------------------------------------
+| KHOO CHEE YOUNG | [Add role] | [Add contribution] |
+| TAN HAO KIT     | [Add role] | [Add contribution] |
+| RONAN CHAN      | [Add role] | [Add contribution] |
+| NEO JIA LER     | [Add role] | [Add contribution] |
 
 ## Roadmap
 
