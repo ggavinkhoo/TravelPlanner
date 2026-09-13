@@ -17,6 +17,7 @@ A prototype travel planning website that lets a traveler build a day-by-day itin
 - [Project structure](#project-structure)
 - [Getting started](#getting-started)
 - [Team](#team)
+- [Mentor Consultation](#mentor-consultation)
 - [Roadmap](#roadmap)
 
 ---
