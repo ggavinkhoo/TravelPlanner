@@ -11,6 +11,7 @@ A prototype travel planning website that lets a traveler build a day-by-day itin
 
 - [Problem statement](#problem-statement)
 - [Target users](#target-users)
+- [Ideation Board](#ideation-board)
 - [Design](#design)
 - [Features](#features)
 - [Tech stack](#tech-stack)
@@ -34,6 +35,33 @@ TrailCraft addresses this by combining itinerary planning and budget tracking in
 - The budget-conscious traveler — students and first-time international travelers for whom cost is a real constraint, who want a running total against what they've planned so they can catch overspending before the trip, not after.
 - The group trip organizer — someone coordinating a trip for multiple people who needs a clear, shareable day-by-day plan rather than details scattered across a chat thread.
 
+## Ideation Board
+
+**Problem space**
+- Trip planning is split across a notes app, spreadsheet, and group chat
+- No single view of "what's happening" and "what it costs"
+- Easy to lose track of bookings vs. still-open plans
+
+**Core features**
+- Day-by-day itinerary with timed activities
+- Per-activity cost tracked alongside a running budget ledger
+- Destination list for the whole trip
+- Considered, not built yet: map view, multi-user sharing
+
+**Differentiators**
+- Travel-journal / boarding-pass visual identity instead of a generic dashboard
+- Itinerary and budget live in one screen, not separate tools
+- Lightweight enough to fill in on the go, not a heavyweight planning tool
+
+**Constraints**
+- Hackathon timebox — scope was cut to itinerary + budget only
+- Small team, no dedicated designer — design system had to be simple to build directly in code
+- No auth or multi-user support in this pass, given the time available
+
+**Considered and cut**
+- AI-suggested itineraries based on destination and trip length
+- Social sharing of a finished itinerary
+- Map integration showing all planned activities
 
 ## Design
 
