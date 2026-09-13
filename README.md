@@ -104,10 +104,10 @@ TrailCraft addresses this by combining itinerary planning and budget tracking in
 
 | Name    | Role | Contribution |
 |---|---|---|
-| KHOO CHEE YOUNG | [Team Leader] | [Planning,Assigning] |
-| TAN HAO KIT     | [Team Member] | [Documentation] |
-| RONAN CHAN      | [Team Member] | [Video] |
-| NEO JIA LER     | [Team Member] | [Documentation] |
+| KHOO CHEE YOUNG | Team Leader | Planning,Assigning |
+| TAN HAO KIT     | Team Member | Documentation |
+| RONAN CHAN      | Team Member | Video |
+| NEO JIA LER     | Team Member | Documentation |
 
 
 ## Roadmap
