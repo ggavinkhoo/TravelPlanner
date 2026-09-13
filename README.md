@@ -3,8 +3,7 @@
 
 A prototype travel planning website that lets a traveler build a day-by-day itinerary and track a trip budget in one place, styled around a travel-journal / boarding-pass look instead of a generic dashboard.
 
-[Add your demo video link here]
-[Add your live prototype / deployed link here]
+-Video: (https://youtu.be/aQ-ZFfblaHU)
 
 ---
 
