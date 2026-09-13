@@ -27,23 +27,18 @@ A prototype travel planning website that lets a traveler build a day-by-day itin
 
 Planning a multi-day trip usually means juggling several disconnected tools — a notes app for the itinerary, a spreadsheet for the budget, a maps app for locations, and a messaging thread for sharing plans with travel companions. This fragmentation makes it easy to lose track of what's booked, what's still open, and how much the trip actually costs.
 
-Wayline addresses this by combining itinerary planning and budget tracking into a single, lightweight interface, so a traveler can see their whole trip — day by day, dollar by dollar — in one place.
+TrailCraft addresses this by combining itinerary planning and budget tracking into a single, lightweight interface, so a traveler can see their whole trip — day by day, dollar by dollar — in one place.
 
 ## Target users
 
-- [Add your target user description here, e.g. independent travelers planning multi-city trips]
-- [Add secondary persona if relevant, e.g. group trip organizers]
+- The independent trip planner — solo travelers, couples, or small friend groups planning a multi-day trip who want one place to see the itinerary and budget together, instead of splitting the work across a notes app, spreadsheet, and group chat.
+- The budget-conscious traveler — students and first-time international travelers for whom cost is a real constraint, who want a running total against what they've planned so they can catch overspending before the trip, not after.
+- The group trip organizer — someone coordinating a trip for multiple people who needs a clear, shareable day-by-day plan rather than details scattered across a chat thread.
 
-## Ideation
-
-- [Add link to ideation board, e.g. Miro / FigJam / Jamboard]
-- [Add link to brainstorming notes or mind map]
-- [Add link to competitor analysis, if any]
 
 ## Design
 
-- [Add link to Figma / wireframes]
-- [Add link to user flow diagrams]
+- https://www.figma.com/design/CBwI86aEKxSqrzdAVMJ61u/TrailCraft?node-id=0-1&t=ff7z4Wi3rEicG6ny-1
 
 **Design language used in the prototype:**
 
@@ -99,13 +94,11 @@ Wayline addresses this by combining itinerary planning and budget tracking into 
 
 | Name    | Role | Contribution |
 |---|---|---|
-| KHOO CHEE YOUNG | [Add role] | [Add contribution] |
-| TAN HAO KIT     | [Add role] | [Add contribution] |
-| RONAN CHAN      | [Add role] | [Add contribution] |
-| NEO JIA LER     | [Add role] | [Add contribution] |
+| KHOO CHEE YOUNG | [Team Leader] | [Planning,Assigning] |
+| TAN HAO KIT     | [Team Member] | [Documentation] |
+| RONAN CHAN      | [Team Member] | [Video] |
+| NEO JIA LER     | [Team Member] | [Documentation] |
 
-RONAN CHAN 
-H
 
 ## Roadmap
 
