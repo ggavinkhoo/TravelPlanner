@@ -12,7 +12,6 @@ A prototype travel planning website that lets a traveler build a day-by-day itin
 
 - [Problem statement](#problem-statement)
 - [Target users](#target-users)
-- [Ideation](#ideation)
 - [Design](#design)
 - [Features](#features)
 - [Tech stack](#tech-stack)
