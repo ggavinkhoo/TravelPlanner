@@ -109,6 +109,11 @@ TrailCraft addresses this by combining itinerary planning and budget tracking in
 | RONAN CHAN      | Team Member | Video |
 | NEO JIA LER     | Team Member | Documentation |
 
+## Mentor Consultation
+| Date   | Mentor | Feedback | What is changed |
+|---|---|---|---|
+|10 Sep 2026 | Khor Jia Quan | Survey other travel planning apps and try to get more idea | UI is changed |
+
 
 ## Roadmap
 
