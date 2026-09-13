@@ -66,19 +66,19 @@ TrailCraft addresses this by combining itinerary planning and budget tracking in
 | Data | In-memory state (prototype only — no backend or persistence yet) |
 | Hosting | [Add hosting platform once deployed, e.g. GitHub Pages / Vercel] |
 
-API endpoints
-Method	Route	Description
-GET / PUT	/api/trip	Get or update trip name and dates
-GET / POST	/api/destinations	List or add destinations
-DELETE	/api/destinations/:index	Remove a destination
-GET / POST	/api/days	List or add itinerary days
-PUT / DELETE	/api/days/:dayId	Rename or remove a day
-POST	/api/days/:dayId/activities	Add an activity to a day
-PUT / DELETE	/api/days/:dayId/activities/:activityId	Update or remove an activity
-GET / POST	/api/budget	List or add a budget line
-PUT / DELETE	/api/budget/:lineId	Update or remove a budget line
-GET	/api/budget/total	Get the running budget total
-GET	/api/health	Health check
+| Method | Route | Description |
+|---|---|---|
+| GET / PUT | `/api/trip` | Get or update trip name and dates |
+| GET / POST | `/api/destinations` | List or add destinations |
+| DELETE | `/api/destinations/:index` | Remove a destination |
+| GET / POST | `/api/days` | List or add itinerary days |
+| PUT / DELETE | `/api/days/:dayId` | Rename or remove a day |
+| POST | `/api/days/:dayId/activities` | Add an activity to a day |
+| PUT / DELETE | `/api/days/:dayId/activities/:activityId` | Update or remove an activity |
+| GET / POST | `/api/budget` | List or add a budget line |
+| PUT / DELETE | `/api/budget/:lineId` | Update or remove a budget line |
+| GET | `/api/budget/total` | Get the running budget total |
+| GET | `/api/health` | Health check |
 
 ## Project structure
 
